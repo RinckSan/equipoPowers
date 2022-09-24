@@ -1,0 +1,2 @@
+# equipoPowers
+NTV Ejercicio
